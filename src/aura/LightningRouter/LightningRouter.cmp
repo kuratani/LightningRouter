@@ -1,0 +1,7 @@
+<aura:component>
+  <aura:handler event="aura:locationChange" action="{!c.render}" />
+  <aura:attribute name="init" type="String" access="global" />
+  <aura:attribute name="route" type="String" access="global" />
+
+  {!v.body}
+</aura:component>

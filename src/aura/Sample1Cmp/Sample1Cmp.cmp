@@ -1,0 +1,6 @@
+<aura:component>
+  <div>
+    Hello, Sample1!
+    <a href="#Sample2">Sample2</a>
+  </div>
+</aura:component>
